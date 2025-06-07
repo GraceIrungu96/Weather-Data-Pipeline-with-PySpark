@@ -39,7 +39,7 @@ This project fetches real-time weather data from the [OpenWeatherMap API](https:
 
 ---
 
-## ⚙️ How to Run
+## ⚙How to Run
 
 1. **Install Dependencies**
 
@@ -61,7 +61,7 @@ python weather_pipeline.py
 
 ---
 
-## 📝 Sample Output (CSV)
+## Sample Output (CSV)
 
 | timestamp           | city    | temperature | humidity | description     |
 | ------------------- | ------- | ----------- | -------- | --------------- |
@@ -69,7 +69,7 @@ python weather_pipeline.py
 
 ---
 
-## 🔐 API Key
+## API Key
 
 This project uses the OpenWeatherMap API. You need to replace the placeholder API key in the script with your actual API key:
 
@@ -81,7 +81,7 @@ Create a free account at [OpenWeatherMap](https://home.openweathermap.org/users/
 
 ---
 
-## 🔧 Potential Improvements
+## Potential Improvements
 
 * Support for batch processing multiple cities
 * Store results in a database (e.g., PostgreSQL or MongoDB)
@@ -90,7 +90,7 @@ Create a free account at [OpenWeatherMap](https://home.openweathermap.org/users/
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Grace W. Irungu**
 📧 [graceirungu96@gmail.com](mailto:graceirungu96@gmail.com)
@@ -98,4 +98,3 @@ Create a free account at [OpenWeatherMap](https://home.openweathermap.org/users/
 
 ---
 
-```
